@@ -1,0 +1,4 @@
+*.csv
+
+/time-series-classification/rocket
+/personality-myers-briggs-types/env
