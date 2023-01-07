@@ -1,4 +1,8 @@
 *.csv
+!/time-series-classification/data/Gruppe A/Zustand ausgeformt/FPU-0002-1903.csv
+!/time-series-classification/data/Gruppe A/Zustand nicht ausgeformt/FPU-0052-1903.csv
+!/time-series-classification/data/Gruppe B/nicht vollst ausgeformt - Boden berührt/FPU-0123-1904.csv
+!/time-series-classification/data/Gruppe B/nicht vollst ausgeformt - ohne Boden/FPU-0160-1904.csv
 
 /time-series-classification/rocket
-/personality-myers-briggs-types/env
+/personality-myers-briggs-types/envmbt
